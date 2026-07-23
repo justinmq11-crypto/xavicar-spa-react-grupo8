@@ -1,22 +1,19 @@
-# Avance 70%
+# Avance 100% – Proyecto final
 
-## Trabajo realizado
+## Alcance completado
 
-- Catálogo completo y tarjetas reutilizables.
-- Ruta dinámica de detalle con `useParams`.
-- Menú móvil y ruta activa.
-- Páginas de servicios, ubicación y contacto.
-- Video, mapa, información original y promociones integradas.
-- Diseño responsive avanzado.
-
-## Trabajo pendiente
-
-- Formulario controlado y validaciones.
-- Mejoras finales de accesibilidad.
-- Revisión final y documentación completa.
+- Todas las rutas y páginas terminadas.
+- Ruta dinámica `/producto/:id` con `useParams`.
+- Catálogo completo generado desde datos.
+- Menú responsive con ruta activa.
+- Video, mapa, horarios y datos originales integrados.
+- Formulario controlado con validación y mensajes accesibles.
+- Página 404 y manejo de producto inexistente.
+- Diseño responsive final y mejoras de accesibilidad.
+- README académico completo.
 
 ## Commit sugerido
 
 ```text
-feat: agregar catálogo dinámico, useParams y páginas principales de XAVICAR
+feat: finalizar SPA de XAVICAR con formulario, accesibilidad y diseño responsive
 ```
